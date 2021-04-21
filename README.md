@@ -1,2 +1,2 @@
 # ML_EE
-machine learning
+machine learning application to electrical engineering
